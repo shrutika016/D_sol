@@ -17,7 +17,7 @@ Use remixIDE
 * To check the balance, click on "Balances," paste the account address, and click "Call" to view the account balance.
 * to check the totalsupply click on it.
 * To burn tokens, click on "Burn", paste the account address, set the value to be burnt (e.g., 791), and click "Transact" to reduce tokens from the account.
-* To check the balance again, press "Call" to obtain the latest balance (e.g., 1000-791 = 203 tokens).
+* To check the balance again, press "Call" to obtain the latest balance (e.g., 1000-791 = 209 tokens).
 * These are all the steps followed in the contract.
 
 ## AUTHORS
